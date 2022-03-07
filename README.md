@@ -13,10 +13,10 @@ A xylophone (also known as a glockenspiel) is a musical instrument. This is a ba
 Minimalist and simple design makes it easy to use. Just open the app and start making your own melodies. 
 
 Features:
-* Eight basic music notes
+* Seven basic music notes
 * Realistic sounds
-* Colorful graphics with touch animation
-* Responsive multitouch
+* Colorful graphics 
+
 
 ## Technologies
 Project is created with:
